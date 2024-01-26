@@ -1,0 +1,34 @@
+.prices{
+    color: orange;
+    text-align: center;
+}
+
+
+.common{
+    width: 25%;
+    height: auto;
+    /* border: 2px solid black; */
+    margin: 4px;
+    
+}
+
+.center{
+    display: flex;
+    
+}
+
+.im{
+    width: 100%;
+    height: 75%;
+    /* border: 2px solid white; */
+}
+
+.image{
+    height: 100%;
+    width: 100%; 
+    
+}
+
+.description{
+    text-align: center;
+}

@@ -1,0 +1,37 @@
+h2{
+    color: green;
+}
+
+h3{
+    color: blue;
+}
+
+div{
+    color: white;
+    background-color: lightseagreen;
+    width: 300px;
+    height: 400px;
+    padding: 100px;
+    margin: 40px;
+    border: 2px solid red;
+}
+
+.modelbox{
+    color:black;
+    background-color: white;
+    border: 3px solid black;
+    padding: 100px;
+    margin: 10px 20px 10px 10px;
+}
+
+.soft{
+    background-color:darkred;
+}
+
+.circle{
+    width: 100px;
+    height: 100px;
+    color: black;
+    border: 3px solid black;
+}
+
