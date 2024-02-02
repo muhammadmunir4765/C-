@@ -1,0 +1,21 @@
+.circle{
+    width: 100px;
+    height: 100px;
+    color: aqua;
+    border: 2px solid darkorange;
+    border-radius: 50%;
+    margin: 5px;
+
+}
+
+div:nth-child(13){
+    background-color: yellow;
+}
+
+.container{
+    height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    flex-direction: column;
+}

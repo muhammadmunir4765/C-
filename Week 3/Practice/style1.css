@@ -1,0 +1,45 @@
+.button1{
+    color: aquamarine;
+    /* margin: 100px; */
+}
+
+.button1:hover {
+
+    color: white;
+    background-color: black;
+    text-decoration-color: aliceblue;
+    cursor: pointer;
+    /* margin-left: 30px; */
+    /* margin: 5px; */
+
+}
+
+.button1:active{
+    color: white;
+    background-color: blue;
+    margin: 2px;
+}
+
+.button1:focus{
+    background-color: brown;
+    color: white;
+    margin: 2px;
+}
+
+.anchor:active{
+    background-color: black;
+    margin: 2px;
+}
+.anchor:selected{
+    background-color: chartreuse;
+    margin: 2px;
+}
+.anchor:visited{
+    background-color: blue;
+    margin: 2px;
+}
+
+div a:first-child{
+    color:red;
+    padding: 10px;
+}

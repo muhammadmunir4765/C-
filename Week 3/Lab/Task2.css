@@ -1,0 +1,61 @@
+.parent{
+   background-color: #ee1669;
+}
+
+.h1{
+    color: white;
+    /* padding: 75px; */
+   
+}
+
+.h2{
+    color: white;   
+}
+
+.intro{
+    display: flex;
+/*     
+    align-items: center;
+    justify-content: center; 
+    text-align: center; */
+
+}
+
+
+.about_me{
+    background-color: lightcyan;
+    /* margin: 100px; */
+    display: flex;
+}
+
+.skills{
+    margin: 100px;
+    background-color: bisque;
+    border: 2px solid green;
+}
+
+.projects{
+    margin: 100px;
+    display: flex;
+    border: 2px solid pink;
+    background-color: lightgreen;
+}
+
+.contact{
+    border: 2px solid lightseagreen;
+    /* margin: 100px; */
+    background-color: lightskyblue;
+    
+}
+
+
+.image{
+    width: 30%;
+    height: 30%;
+    margin: 5px;
+}
+
+.list{
+    font-size:x-large;
+    margin-left: 20px;
+}
