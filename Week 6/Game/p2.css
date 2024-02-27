@@ -1,0 +1,14 @@
+.ball{
+    height: 200px;   
+    width: 200px;
+    border-radius: 100px;
+    background-color: aqua;
+}
+
+.container{
+    display: flex;
+     
+    height: 400px;
+    width: 200px;
+    background-color: blueviolet;
+}
