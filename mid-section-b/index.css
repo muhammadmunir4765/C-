@@ -1,0 +1,14 @@
+.active_image{
+
+    height: 300px;
+    width: 300px;
+    border: solid black;
+    margin-bottom: 100px;
+
+}
+.container{
+    height: 100px;
+    width: 400px;
+    display: flex;
+    flex-direction: row;
+}
